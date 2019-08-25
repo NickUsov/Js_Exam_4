@@ -1,0 +1,33 @@
+.container {
+    width: 300px;
+    border: 1px solid gray;
+}
+#message {
+    width: 270px;
+    margin: 10px;
+}
+.item {
+    width: 280px;
+    border: 1px solid gray;
+    border-top: none;
+    padding: 10px;
+}
+label {
+    margin-left: 10px;
+}
+.circle {
+    width:22px;
+    height: 20px;
+    border: 1px solid red;
+    border-radius: 50%;
+    text-align: center;
+    vertical-align: 5px;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    cursor: pointer;
+    padding-top: 2px;
+}
+span {
+    margin-left: 30px;
+}
